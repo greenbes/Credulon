@@ -43,14 +43,10 @@
 
   The most popular types are:
 
-  * Credulon GOP is a fast acting _multi-placebo_ that is based on the
-    Fox-Breitbart effect.
-
-  * Credulon OIL is a fast acting _multi-placebo_ that
-
-  * Credulon DNC is a fast acting _multi-placebo_ that 
-
-  * Credulon HPE is a fast acting _multi-placebo_ that
+  * __Credulon GOP__ is a fast acting _multi-placebo_ that is based on the Fox-Breitbart effect.
+  * __Credulon OIL__ is a fast acting _multi-placebo_ that
+  * __Credulon DNC__ is a fast acting _multi-placebo_ that 
+  * __Credulon HPE__ is a fast acting _multi-placebo_ that
 
 * How Do I Know If I'm Having An Epiphany?
 
@@ -105,37 +101,24 @@
 
 * Is Credulon a real medication?
 
-  No. While [the placebo effect](http://en.wikipedia.org/wiki/Placebo)
-  and [the Backfire
-  effect](http://en.wikipedia.org/wiki/Backfire_effect) have been well
-  documented, Credulon is a satire.
+No. While [the placebo effect](http://en.wikipedia.org/wiki/Placebo) and [the Backfire effect](http://en.wikipedia.org/wiki/Backfire_effect) have been well documented, Credulon is a satire.
 
 * What is Credulon.com?
 
-  Credulon.com is a satirical website that uses the idea of [the
-  placebo effect](http://en.wikipedia.org/wiki/Placebo) to poke fun at
-  our collective desire to reinforce what we already believe rather
-  than challenging ourselves.
-
+Credulon.com is a satirical website that uses the idea of [the placebo effect](http://en.wikipedia.org/wiki/Placebo) to poke fun at our collective desire to reinforce what we already believe rather than challenging ourselves.
 
 * Where did Credulon come from?
 
   The inventor realized that, since placebos are powered by _belief_:
 
   1. Increasing the patient's belief will make the placebo work better
-
   1. Because it's a placebo, it doesn't really matter what the pill
      is made of
-
   1. I can sell re-packaged [Smarties](http://www.smarties.com/) for
      $20 each and get out of this horrid lab.
-
   1. Lab rats are creepy.  I'm going to a bar.
 
-
-it was
-  instantly hailed as a way to sell cheap sugar pills rather than
-  making medicine.
+it was instantly hailed as a way to sell cheap sugar pills rather than making medicine.
 
 
 
